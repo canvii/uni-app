@@ -1,0 +1,27 @@
+
+.outerImg {
+	position:absolute;
+	mode:"aspectFill";
+}
+.innerImg{
+	position: relative;
+	mode:"aspectFill";
+}
+.content {
+	/* display: flex; */
+	/* align-items: flex-start; */
+	/* justify-content: left; */
+	margin-left: 10px;
+	margin-top: 10px;
+	position: absolute;
+}
+.text-area {
+	/* display: flex; */
+	background-color: #808080;
+	position: absolute;
+}
+.title {
+	font-size: 36px;
+	color: #8f8f94;
+}
+

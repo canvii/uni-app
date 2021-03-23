@@ -1,0 +1,1 @@
+<view class="content"><button data-event-opts="{{[['tap',[['getWifiName',['$event']]]]]}}" bindtap="__e">点击</button><joy-stick vue-id="8dd740cc-1" bind:__l="__l"></joy-stick></view>
